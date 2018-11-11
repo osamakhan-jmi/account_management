@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<methodCall>
+ <methodName>Execute</methodName>
+ <params>
+  <param>
+   <value>
+    <struct>
+     <member>
+      <name>Server</name>
+      <value>BM</value>
+     </member>
+     <member>
+      <name>Method</name>
+      <value>AccountAdd_API</value>
+     </member>
+     <member>
+      <name>Params</name>
+      <value>
+       <array>
+        <data>
+         <value><i4>1</i4></value>
+         <value><i4>3</i4></value>
+         
+         <value>$cmpname</value>
+         
+         <value>$address1</value>
+         
+         <value>$address2</value>
+         
+         <value>$city</value>
+         
+         <value>$state</value>
+         
+         <value>$zip</value>
+         
+         <value>$cuntryid</value>
+         
+         <value>$postaladdress</value>
+         
+         <value>$adminfname</value>
+         
+         <value>$adminmname</value>
+         
+         <value>$adminlname</value>
+         
+         <value>$adminemail</value>
+         
+         <value>$adminphncontrycode</value>
+         
+         <value>$adminphnareacode</value>
+         
+         <value>$adminphnnumber</value>
+         
+         <value>$adminphnextenstion</value>
+         
+         <value>$adminfaxcontrycode</value>
+         
+         <value>$adminfaxareacode</value>
+         
+         <value>$adminfaxnumber</value>
+         
+         <value>$adminfaxextenstion</value>
+         
+         <value>$billfname</value>
+         
+         <value>$billmname</value>
+         
+         <value>$billlname</value>
+         
+         <value>$billemail</value>
+         
+         <value>$billphncontrycode</value>
+         
+         <value>$billphnareacode</value>
+         
+         <value>$billphnnumber</value>
+         
+         <value>$billphnextenstion</value>
+         
+         <value>$billfaxcontrycode</value>
+         
+         <value>$billfaxareacode</value>
+         
+         <value>$billfaxnumber</value>
+         
+         <value>$billfaxextenstion</value>
+         
+         <value>$techfname</value>
+         
+         <value>$techmname</value>
+         
+         <value>$techlname</value>
+         
+         <value>$techemail</value>
+         
+         <value>$techphncontrycode</value>
+         
+         <value>$techphnareacode</value>
+         
+         <value>$techphnnumber</value>
+         
+         <value>$techphnextenstion</value>
+         
+         <value>$techfaxcontrycode</value>
+         
+         <value>$techfaxareacode</value>
+         
+         <value>$techfaxnumber</value>
+         
+         <value>$techfaxextenstion</value>
+         
+         <value></value>
+         
+         <value></value>
+         
+         <value></value>
+         
+         <value><i4></i4></value>
+         
+         <value></value>
+         
+         <value></value>
+         
+         <value></value>
+         
+         <value></value>
+         
+         <value></value>
+         
+         <value></value>
+         
+         <value></value>
+         
+         <value></value>
+         
+         <value></value>
+         
+         <value></value>
+         <value><i4>2</i4></value>
+         <value>Default</value>
+         <value></value>
+         <value><i4></i4></value>
+         <value>ODP Test Case</value>
+        </data>
+       </array>
+      </value>
+     </member>
+    </struct>
+   </value>
+  </param>
+ </params>
+</methodCall>
